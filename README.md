@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimbrianreyes" alt="kimbrianreyes" /></a> </p>
 
-- 🌱 I’m currently learning **VueJS, FireBase**
+- 🌱 I’m currently learning **VueJS, Firebase**
 
 - 📫 How to reach me **rkim0928@gmail.com**
 
