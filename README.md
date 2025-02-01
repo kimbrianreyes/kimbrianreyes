@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim Brian Reyes</h1>
 <h3 align="center">Aspiring Developer | BSIT Student</h3>
 
-- 🌱 I’m currently learning **VueJS, FireBase**
+- 🌱 I’m currently learning **ReactJS, TypeScript**
 
 - 📫 How to reach me **rkim0928@gmail.com**
 
